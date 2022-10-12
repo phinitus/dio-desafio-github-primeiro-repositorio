@@ -1,0 +1,3 @@
+Crianção de Repositorio
+atualização do mesmo 
+e pratica de funções do Git
